@@ -2,7 +2,7 @@
 
 This project is a simple web-based 3D model viewer that utilizes the `<model-viewer>` Web Component to render and display a 3D model.
 
-# This explanation Made by Taha 
+# This explaination Made by Taha 
 
 ## Features
 - Loads a 3D model (`cartoon_car.glb`)
